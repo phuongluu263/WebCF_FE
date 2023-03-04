@@ -1,3 +1,7 @@
 hello 1
 
+<<<<<<< HEAD
 hello pc1
+=======
+hello pc2
+>>>>>>> 54e7291a9e6a58d935c3a66dae1fea07efebfc14
